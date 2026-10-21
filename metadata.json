@@ -1,0 +1,6 @@
+{
+  "name": "TECNO SPARK 40 PRO+ AOSP Studio",
+  "description": "Конструктор базовой прошивки AOSP Android 16 (Baklava) и Device Tree для TECNO SPARK 40 PRO+ (Helio G100 / MT6789): драйверы 120Hz AMOLED, сенсора, Wi-Fi, Bluetooth, GPU Mali-G57 и профили энергосбережения.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+{
+  "summary":  "План создания конструктора базовой прошивки AOSP (Android 14) для TECNO SPARK 40 PRO+. Включает дерево устройства (Device Tree), драйверы дисплея 120Hz AMOLED, сенсора, Wi-Fi и Bluetooth, аппаратное ускорение ARM Mali-G57 и профили энергосбережения EAS/PowerHAL.",
+  "updatedAt":  "2026-10-21T10:35:56.449615982Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
